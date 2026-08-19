@@ -5,8 +5,8 @@
 
 ___  
 ### 사용하는 아이들
-![Static Badge](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=black&labelColor=DCDCDC&color=DCDCDC)
  ![Static Badge](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=C%23&logoColor=white&labelColor=512BD4&color=512BD4)
+![Static Badge](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=black&labelColor=DCDCDC&color=DCDCDC)
  ___
  ### 저의 깃허브 Stats  
  ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yangsamuel726&show_icons=true&theme=radical)
