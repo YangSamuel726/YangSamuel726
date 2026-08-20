@@ -3,21 +3,14 @@
   Unity Client 개발자 양사무엘입니다. 변화하는 환경속에서 쉽게 무너지지 않는 구조를 고민하며 개발합니다.
 </div>  
 
-<br><br>
  ---
  ## 🎮 프로젝트 경험
 
- ### GaebongAllStar
+ |Project|Preview|Links|
+ |---|:---:|:---|
+ |**GaebongAllStar**<br>2~10인 온라인 PvP 액션 게임<br>Unity · C# · Photon Fusion|<img src="" width="280">|[Portfolio Repository](https://github.com/YangSamuel726/GaebongAllStar-Portfolio)<br>[Gameplay Video]()<br>[Steam](https://store.steampowered.com/app/3406920/GaebongAllStar/)|
 
- 2~10인 온라인 PvP 액션 게임
- - Unity / C#
- - Photon Fusion
- - 3인 팀 개발
- - Steam 출시
 
-[Portfolio Repository](https://github.com/YangSamuel726/GaebongAllStar-Portfolio)  · [Steam] · [Gameplay Video]
-
-<br><br>
 ---
 ## 🛠 보유 기술
 
