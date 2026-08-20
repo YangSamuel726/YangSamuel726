@@ -8,7 +8,7 @@
 
  |Project|Preview|Description|Links|
  |:---:|:---:|---|---|
- |**GaebongAllStar**|<img src="https://github.com/YangSamuel726/GaebongAllStar-Portfolio/blob/main/GBS%20Images/GBS%20capsule_616x353.jpg?raw=true" width="200">|2~10인 온라인 PvP 액션 게임<br>Unity · C# · Photon Fusion|[Portfolio Repository](https://github.com/YangSamuel726/GaebongAllStar-Portfolio)<br>[Gameplay Video]()<br>[Steam](https://store.steampowered.com/app/3406920/GaebongAllStar/)|
+ |**[GaebongAllStar](https://github.com/YangSamuel726/GaebongAllStar-Portfolio)**|<img src="https://github.com/YangSamuel726/GaebongAllStar-Portfolio/blob/main/GBS%20Images/GBS%20capsule_616x353.jpg?raw=true" width="200">|2~10인 온라인 PvP 액션 게임<br>Unity · C# · Photon Fusion|[Portfolio Repository](https://github.com/YangSamuel726/GaebongAllStar-Portfolio)<br>[Gameplay Video]()<br>[Steam](https://store.steampowered.com/app/3406920/GaebongAllStar/)|
 
 
 ---
