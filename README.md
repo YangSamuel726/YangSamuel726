@@ -18,6 +18,8 @@
  ![Static Badge](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=C%23&logoColor=white&labelColor=512BD4&color=512BD4)
 ![Static Badge](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=black&labelColor=white&color=white)
 ![Static Badge](https://img.shields.io/badge/Photon_Fusion-blue?style=for-the-badge&logo=Photon)
+![Static Badge](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=GitHub)
+
 
 ### 경험 기술
 ![Static Badge](https://img.shields.io/badge/Steamworks-white?style=for-the-badge&logo=Steam&logoColor=white&color=black)
