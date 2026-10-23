@@ -3,7 +3,6 @@
   Unity Client 개발자 양사무엘입니다. 변화하는 환경속에서 쉽게 무너지지 않는 구조를 고민하며 개발합니다.
 </div>  
 
- ---
  ## 🎮 프로젝트 경험
 
  |Project|Preview|Description|Links|
@@ -11,7 +10,6 @@
  |**[GaebongAllStar](https://github.com/YangSamuel726/GaebongAllStar-Portfolio)**|<img src="https://github.com/YangSamuel726/GaebongAllStar-Portfolio/blob/main/GBS%20Images/GBS%20capsule_616x353.jpg?raw=true" width="200">|2~10인 온라인 PvP 액션 게임<br>Unity · C# · Photon Fusion|[![Gameplay Video](https://img.shields.io/badge/YouTube-Trailer-FF0000?logo=youtube&style=for-the-badge&logoColor=white)](https://youtu.be/GJ9Nbg19cho)<br>[![Steam](https://img.shields.io/badge/Steam-Store-000000?logo=steam&style=for-the-badge&logoColor=white)](https://store.steampowered.com/app/3406920/GaebongAllStar/)|
 
 
----
 ## 🛠 보유 기술
 
 ### 핵심 기술
